@@ -13,7 +13,7 @@ This Java program calculates the average number of 3-pointers made (3PM) by each
 
 1. Ensure you have Java installed and configured on your machine.
 2. Import the project into your favorite Java IDE (e.g., IntelliJ IDEA or Eclipse).
-3. Add the required dependencies to the project using Maven or Gradle.
+3. Add the required dependencies to the project using Maven.
 4. Run the test by right-clicking on the NBA_3PM class and selecting Run 'NBA_3PM'.
 
 ## Code Overview
